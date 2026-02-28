@@ -125,11 +125,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- [OpenWeatherMap](https://openweathermap.org/) for providing the weather data API
-- Icons from [Weather Icons](https://erikflowers.github.io/weather-icons/)
-- Fonts from [Google Fonts](https://fonts.google.com/)
 
 ## 📧 Contact
 

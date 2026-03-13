@@ -2,8 +2,6 @@
 
 A beautiful, responsive weather application built with Node.js and Express that provides real-time weather data and forecasts using the OpenWeatherMap API.
 
-![Weather App Demo](https://via.placeholder.com/800x400.png?text=Weather+App+Demo)
-
 ## ✨ Features
 
 - **Current Weather** - Get real-time weather conditions for any city
